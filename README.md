@@ -16,51 +16,100 @@ Me gusta trabajar en proyectos web, aplicaciones móviles, bases de datos y sist
 
 ---
 
-## 🛠️ Tecnologías y herramientas
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,php,nodejs,mysql,postgres,git,github,postman" />
 </p>
 
 <table align="center">
-  <tr>
-    <td align="center">HTML5</td>
-    <td align="center">CSS3</td>
-    <td align="center">JavaScript</td>
-    <td align="center">React</td>
-    <td align="center">Angular</td>
-  </tr>
-  <tr>
-    <td align="center">PHP</td>
-    <td align="center">Node.js</td>
-    <td align="center">APIs REST</td>
-    <td align="center">JWT</td>
-    <td align="center">MySQL</td>
-  </tr>
-  <tr>
-    <td align="center">SQL Server</td>
-    <td align="center">PostgreSQL</td>
-    <td align="center">Git</td>
-    <td align="center">GitHub</td>
-    <td align="center">Postman</td>
-  </tr>
-  <tr>
-    <td align="center">XAMPP</td>
-    <td align="center">React Native</td>
-    <td align="center">Expo</td>
-    <td align="center">MVC</td>
-    <td align="center">POO</td>
-  </tr>
-  <tr>
-    <td align="center">Redes</td>
-    <td align="center">Soporte Técnico</td>
-    <td align="center">Diseño Responsive</td>
-    <td align="center">UX Básico</td>
-  </tr>
-</table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br>Angular
+</td>
+</tr>
 
----
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>PHP
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
+</td>
+<td align="center">
+🌐<br>APIs REST
+</td>
+<td align="center">
+🔐<br>JWT
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
+</td>
+</tr>
+
+<tr>
+<td align="center">
+🗄️<br>SQL Server
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/><br>Postman
+</td>
+</tr>
+
+<tr>
+<td align="center">
+⚙️<br>XAMPP
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React Native
+</td>
+<td align="center">
+🚀<br>Expo
+</td>
+<td align="center">
+📐<br>MVC
+</td>
+<td align="center">
+🧠<br>POO
+</td>
+</tr>
+
+<tr>
+<td align="center">
+🌐<br>Redes
+</td>
+<td align="center">
+🛠️<br>Soporte Técnico
+</td>
+<td align="center">
+📱<br>Diseño Responsive
+</td>
+<td align="center">
+🎨<br>UX Básico
+</td>
+</tr>
+</table>
 
 ## 📌 Áreas de experiencia
 
