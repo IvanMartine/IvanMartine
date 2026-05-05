@@ -91,9 +91,6 @@ JavaScript, HTML, CSS
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMartine&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IvanMartine&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 🔥 Racha de contribuciones
 
