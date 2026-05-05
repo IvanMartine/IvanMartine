@@ -18,10 +18,6 @@ Me gusta trabajar en proyectos web, aplicaciones móviles, bases de datos y sist
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,php,nodejs,mysql,postgres,git,github,postman" />
-</p>
-
 <table align="center">
 <tr>
 <td align="center">
@@ -82,7 +78,7 @@ Me gusta trabajar en proyectos web, aplicaciones móviles, bases de datos y sist
 ⚙️<br>XAMPP
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React Native
+📱<br>React Native
 </td>
 <td align="center">
 🚀<br>Expo
@@ -108,6 +104,7 @@ Me gusta trabajar en proyectos web, aplicaciones móviles, bases de datos y sist
 <td align="center">
 🎨<br>UX Básico
 </td>
+<td></td>
 </tr>
 </table>
 
