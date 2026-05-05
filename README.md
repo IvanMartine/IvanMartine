@@ -17,10 +17,48 @@ Me gusta trabajar en proyectos web, aplicaciones móviles, bases de datos y sist
 ---
 
 ## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,express,mysql,postgres,java,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,php,nodejs,mysql,postgres,git,github,postman" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center">HTML5</td>
+    <td align="center">CSS3</td>
+    <td align="center">JavaScript</td>
+    <td align="center">React</td>
+    <td align="center">Angular</td>
+  </tr>
+  <tr>
+    <td align="center">PHP</td>
+    <td align="center">Node.js</td>
+    <td align="center">APIs REST</td>
+    <td align="center">JWT</td>
+    <td align="center">MySQL</td>
+  </tr>
+  <tr>
+    <td align="center">SQL Server</td>
+    <td align="center">PostgreSQL</td>
+    <td align="center">Git</td>
+    <td align="center">GitHub</td>
+    <td align="center">Postman</td>
+  </tr>
+  <tr>
+    <td align="center">XAMPP</td>
+    <td align="center">React Native</td>
+    <td align="center">Expo</td>
+    <td align="center">MVC</td>
+    <td align="center">POO</td>
+  </tr>
+  <tr>
+    <td align="center">Redes</td>
+    <td align="center">Soporte Técnico</td>
+    <td align="center">Diseño Responsive</td>
+    <td align="center">UX Básico</td>
+  </tr>
+</table>
 
 ---
 
