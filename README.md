@@ -120,26 +120,31 @@ Me gusta trabajar en proyectos web, aplicaciones móviles, bases de datos y sist
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos Destacados
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🐾 PetHealthy App
-Aplicación móvil para el cuidado de mascotas.
+Aplicación móvil enfocada en el cuidado de mascotas, permitiendo gestionar información, ubicación y funcionalidades clave para usuarios.
 
 **Tecnologías:**  
 React Native, Expo, JavaScript
 
+🔗 [Ver repositorio](https://github.com/IvanMartine/PetHealthyApp)
+
 </td>
+
 <td width="50%">
 
 ### ⛪ Sistema Templo Juda
-Sistema web para administración de iglesia.
+Sistema web completo para la gestión de iglesias, incluyendo control de miembros, eventos y administración interna.
 
 **Tecnologías:**  
 PHP, MySQL, HTML, CSS, JavaScript
+
+🔗 [Ver repositorio](https://github.com/IvanMartine)
 
 </td>
 </tr>
@@ -147,26 +152,55 @@ PHP, MySQL, HTML, CSS, JavaScript
 <tr>
 <td width="50%">
 
-### 🌐 Portafolio Web
-Sitio personal para mostrar proyectos y habilidades.
+### 🌐 Portafolio Web Profesional
+Sitio web personal para mostrar proyectos, habilidades y experiencia como desarrollador Full Stack.
 
 **Tecnologías:**  
 HTML, CSS, JavaScript, PHP
 
+🔗 [Ver repositorio](https://github.com/IvanMartine)
+
 </td>
+
 <td width="50%">
 
-### ✅ Todo App
-Aplicación para gestión de tareas.
+### 📚 Sistema de Gestión Académica
+Aplicación para administración de procesos académicos, usuarios y control de información.
 
 **Tecnologías:**  
-JavaScript, HTML, CSS
+PHP, MySQL, JavaScript
+
+🔗 [Ver repositorio](https://github.com/IvanMartine/gestion-academica-demo)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐳 Proyecto Docker Integrado
+Implementación de contenedores para despliegue de aplicaciones, facilitando entornos de desarrollo y producción.
+
+**Tecnologías:**  
+Docker, Linux, Node.js
+
+🔗 [Ver repositorio](https://github.com/IvanMartine/parcial-docker-integrado)
+
+</td>
+
+<td width="50%">
+
+### 🔐 Laboratorio de Seguridad Informática
+Prácticas enfocadas en análisis de seguridad, escaneo de red y fundamentos de ciberseguridad.
+
+**Tecnologías:**  
+Nmap, Redes, Seguridad
+
+🔗 [Ver repositorio](https://github.com/IvanMartine/Lab3_SeguridadInformatica)
 
 </td>
 </tr>
 </table>
-
----
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
